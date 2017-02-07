@@ -3,9 +3,9 @@
             
 
 
-[![ScreenShot](http://img.youtube.com/vi/ZLabSkafOgo/0.jpg>/hqdefault.jpg)](https://www.youtube.com/embed/ZLabSkafOgo)
 
 
+[![Alt text for your video](http://img.youtube.com/vi/ZLabSkafOgo/0.jpg)](https://www.youtube.com/embed/ZLabSkafOgo)
 
 
 
