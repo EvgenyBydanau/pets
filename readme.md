@@ -1,11 +1,7 @@
 
 
 
-<a href="https://www.youtube.com/embed/ZLabSkafOgo
-" target="_blank">
-</a>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLabSkafOgo" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 
 # Laravel PHP Framework
