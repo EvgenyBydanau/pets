@@ -3,7 +3,7 @@
             
 
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/embed/ZLabSkafOgo)
+[![ScreenShot](https://img.youtube.com/vi/<https://youtu.be/ZLabSkafOgo>/hqdefault.jpg)](https://www.youtube.com/embed/ZLabSkafOgo)
 
 
 
