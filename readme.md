@@ -3,7 +3,7 @@
             
 
 
-[![ScreenShot](https://img.youtube.com/vi/<https://youtu.be/ZLabSkafOgo>/hqdefault.jpg)](https://www.youtube.com/embed/ZLabSkafOgo)
+[![ScreenShot](https://img.youtube.com/vi/ZLabSkafOgo/0.jpg>/hqdefault.jpg)](https://www.youtube.com/embed/ZLabSkafOgo)
 
 
 
